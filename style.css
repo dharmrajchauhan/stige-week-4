@@ -1,0 +1,23 @@
+h1{
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+body{
+    background: url(bg.jpg) no-repeat center center / cover;
+}
+
+.output{
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5vh 2vw 5vh 2vw;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
